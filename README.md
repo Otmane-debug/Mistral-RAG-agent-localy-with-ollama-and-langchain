@@ -9,6 +9,6 @@ Download :
 run on terminal : 
     ollama pull mistral
     
-run on terminal in rag.py directory : 
-    py -3.10 -m pip install -r requirements.txt
-    py -3.10 rag.py
+Run on terminal in rag.py directory : py -3.10 -m pip install -r requirements.txt
+
+Run on terminal in rag.py directory : py -3.10 rag.py
